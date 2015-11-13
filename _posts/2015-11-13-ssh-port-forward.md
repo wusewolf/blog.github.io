@@ -1,2 +1,8 @@
+---
+layout: post
+title:  SSH 端口转发      
+date:   2015-11-13 17:55:11
+category: "主题"
+---
 #SSH 端口转发      
 https://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/
