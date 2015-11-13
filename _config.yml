@@ -73,13 +73,13 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
+    url: http://weibo.com
   - class: icon-renren
     url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: http://github.com/wusewolf
   - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: http://twitter.com
   - class: icon-google-plus
     url: http://google.com
 
