@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  SSH 端口转发      
+title:  SSH绔彛杞彂
 date:   2015-11-13 17:55:11
-category: "主题"
+category: "SSH"
 ---
-#SSH 端口转发      
+#SSH 绔彛杞彂
 https://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/
