@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SSH端口转发
+title:  SSH端口
 date:   2015-11-13 17:55:11
 category: "SSH"
 ---
